@@ -1,0 +1,21 @@
+Compilation Exception
+	Caused by Syntax Error : Expected begin but found token IDENTIFIER: begim (line 1)[program2]
+
+Compilation Exception
+	Caused by Error : Error in if statement (line 4)[program3]
+	Caused by Syntax Error : Expected if but found token EOF (line 11)[program3]
+
+Compilation Exception
+	Caused by Error : Error in while statement (line 4)[program4]
+	Caused by Syntax Error :  Error in Statement (line7)[program4]
+
+Compilation Exception
+	Caused by Error : Error in while statement (line 4)[program5]
+	Caused by Syntax Error : Expected loop but found token ; (line 7)[program5]
+
+Compilation Exception
+	Caused by Syntax Error :  Error in Statement (line4)[program7]
+
+Compilation Exception
+	Caused by Syntax Error : Expected EOF but found token call (line 12)[program8]
+
