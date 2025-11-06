@@ -1,8 +1,10 @@
 Overview
+
 This SyntaxAnalyser class implements the core recursive-descent parsing logic for a small programming language.
 The base structure and abstract classes were provided by my professor, but all parsing methods and error-handling logic in this file were written by me.
 
 My contributions
+
 I implemented all of the following:
 The full set of grammar rule methods (e.g. ifStatement(), whileStatement(), assignmentStatement(), forStatement(), etc.)
 Recursive parsing logic for:
